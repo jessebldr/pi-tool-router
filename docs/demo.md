@@ -89,7 +89,7 @@ Duration    960ms
 pi install npm:@jessenguyen22/pi-tool-router
 
 # Or from GitHub
-pi install git:github.com/jessenguyen22/pi-tool-router
+pi install git:github.com/jessebldr/pi-tool-router
 ```
 
 ### Commands
@@ -145,7 +145,7 @@ pi-tool-router/
 - **Version:** 0.1.0
 - **License:** MIT
 - **NPM:** https://www.npmjs.com/package/@jessenguyen22/pi-tool-router
-- **GitHub:** https://github.com/jessenguyen22/pi-tool-router
+- **GitHub:** https://github.com/jessebldr/pi-tool-router
 
 ---
 

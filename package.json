@@ -13,18 +13,18 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "jessenguyen22",
-    "email": "jessenguyen22@users.noreply.github.com",
-    "url": "https://github.com/jessenguyen22"
+    "name": "jessebldr",
+    "email": "jessebldr@users.noreply.github.com",
+    "url": "https://github.com/jessebldr"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jessenguyen22/pi-tool-router"
+    "url": "https://github.com/jessebldr/pi-tool-router"
   },
   "bugs": {
-    "url": "https://github.com/jessenguyen22/pi-tool-router/issues"
+    "url": "https://github.com/jessebldr/pi-tool-router/issues"
   },
-  "homepage": "https://github.com/jessenguyen22/pi-tool-router#readme",
+  "homepage": "https://github.com/jessebldr/pi-tool-router#readme",
   "type": "module",
   "main": "index.ts",
   "exports": {

@@ -4,9 +4,9 @@
 
 [![npm version](https://img.shields.io/npm/v/@jessenguyen22/pi-tool-router.svg)](https://www.npmjs.com/package/@jessenguyen22/pi-tool-router)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jessenguyen22/pi-tool-router/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/jessenguyen22/pi-tool-router)](https://github.com/jessenguyen22/pi-tool-router/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jessenguyen22/pi-tool-router)](https://github.com/jessenguyen22/pi-tool-router/commits)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jessebldr/pi-tool-router/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/jessebldr/pi-tool-router)](https://github.com/jessebldr/pi-tool-router/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jessebldr/pi-tool-router)](https://github.com/jessebldr/pi-tool-router/commits)
 
 > 🔀 Automatically select the best tool stack for each task using intelligent routing rules
 
@@ -279,13 +279,13 @@ See [examples/](examples/) for complete examples:
 
 ```bash
 # Global installation
-pi install npm:pi-tool-router
+pi install npm:@jessenguyen22/pi-tool-router
 
 # Project-local installation
-pi install -l npm:pi-tool-router
+pi install -l npm:@jessenguyen22/pi-tool-router
 
 # From GitHub (latest)
-pi install git:github.com/jessenguyen22/pi-tool-router
+pi install git:github.com/jessebldr/pi-tool-router
 ```
 
 - [Basic routing](examples/basic-routing.ts)
@@ -315,7 +315,7 @@ npm run dev
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request to [jessenguyen22/pi-tool-router](https://github.com/jessenguyen22/pi-tool-router/pulls)
+5. Open a Pull Request to [jessebldr/pi-tool-router](https://github.com/jessebldr/pi-tool-router/pulls)
 
 ## License
 
@@ -331,6 +331,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Support
 
 - 📖 [Documentation](docs/)
-- 🐛 [Issue Tracker](https://github.com/jessenguyen22/pi-tool-router/issues)
-- 💬 [Discussions](https://github.com/jessenguyen22/pi-tool-router/discussions)
-- ⭐ [Star on GitHub](https://github.com/jessenguyen22/pi-tool-router)
+- 🐛 [Issue Tracker](https://github.com/jessebldr/pi-tool-router/issues)
+- 💬 [Discussions](https://github.com/jessebldr/pi-tool-router/discussions)
+- ⭐ [Star on GitHub](https://github.com/jessebldr/pi-tool-router)
